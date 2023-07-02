@@ -1,4 +1,9 @@
-﻿# The presentation of my speech of Microsoft Build 2023 After Party
+﻿# Microsoft Build 2023 Community-Led Party
+
+[简体中文](ReadMe.zh-CN.md)
+
+Note: The content is only available in Chinese.
 
 - Title: Unleash the unlimited potentials for ARM64 Windows devices
-  标题: 释放 ARM64 Windows 设备的无限潜能
+- Video: https://www.bilibili.com/video/BV12N411U7fi
+- Presentation: [Presentation.pptx](Presentation.pptx)
