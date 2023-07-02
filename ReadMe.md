@@ -1,3 +1,5 @@
-﻿# Presentations of technical speeches from Kenji Mouri
+﻿# Technical speeches from Kenji Mouri
 
-- [Microsoft Build 2023 After Party](20230630)
+[简体中文](ReadMe.zh-CN.md)
+
+- [Microsoft Build 2023 Community-Led Party](20230630/ReadMe.md)
