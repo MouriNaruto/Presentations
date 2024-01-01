@@ -5,5 +5,5 @@
 Note: The content is only available in Chinese.
 
 - Title: Build a minimal bootable Linux distro for .NET environment
-- Video: 
+- Video: https://www.bilibili.com/video/BV18C4y1B7xv
 - Presentation: [MinCLR.pptx](MinCLR.pptx)
